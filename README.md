@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [repos](https://github.com/saahu27?tab=repositories)
 
-- 📫 How to reach me **sahrudaypatti@gmail.com**
+- 📫 How to reach me [email](sahrudaypatti@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
