@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saahu27&label=Profile%20views&color=0e75b6&style=flat" alt="saahu27" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/saahu27?tab=repositories](https://github.com/saahu27?tab=repositories)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/saahu27?tab=repositories)
 
 - 📫 How to reach me **sahrudaypatti@gmail.com**
 
