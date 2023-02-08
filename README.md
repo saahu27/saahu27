@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm saahu27</h1>
+<h1 align="center">Hi 👋, I'm sahruday reddy patti</h1>
 <h3 align="center">Grad student @Umcp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saahu27&label=Profile%20views&color=0e75b6&style=flat" alt="saahu27" /> </p>
