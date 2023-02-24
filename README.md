@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahruday Reddy Patti</h1>
-<h3 align="center">Grad student @Umcp</h3>
+<h3 align="center">Robotics Grad Student @University of Maryland College Park</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saahu27&label=Profile%20views&color=0e75b6&style=flat" alt="saahu27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saahu27" alt="saahu27" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning, Path planning**
+- 🔭 I’m currently working on **Deep Learning, Path planning at the Maryland Robotics Center**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saahu27?tab=repositories](https://github.com/saahu27?tab=repositories)
 
