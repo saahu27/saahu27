@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Control of TIRSLKMAX Bot at the Dynamics and Controls lab**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saahu27?tab=repositories](https://github.com/saahu27?tab=repositories)
+- 👨‍💻 All of my projects are available at [link](https://github.com/saahu27?tab=repositories)
 
 - 📫 How to reach me **sahrudaypatti@gmail.com**
 
