@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahruday Reddy Patti</h1>
 <h3 align="center">Robotics Grad Student @University of Maryland College Park</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saahu27&label=Profile%20views&color=0e75b6&style=flat" alt="saahu27" /> </p>
 
 - 🔭 I’m currently working on **Control of TIRSLKMAX Bot at the Dynamics and Controls lab**
 
