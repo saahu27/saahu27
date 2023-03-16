@@ -26,7 +26,7 @@
   <tbody>
   <tr>
       <td>Languages</td>
-      <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
       <td><img src="https://img.shields.io/badge/matlab-E34F26?style=for-the-badge"></td>
       <td><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>Tools</td>
-      <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="40" height="40"></td>
       <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
       <td><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></td>
       <td><img src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=appveyor"></td>
