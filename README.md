@@ -26,6 +26,7 @@
   <tbody>
   <tr>
       <td>Languages</td>
+      <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
       <td><img src="https://img.shields.io/badge/matlab-E34F26?style=for-the-badge"></td>
       <td><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></td>
