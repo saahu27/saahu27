@@ -91,7 +91,7 @@
 
 <hr/>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/saahu27/saahu27/blob/main/quotes.json)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://images.app.goo.gl/FhmoVvCZAE8HMTa2A)
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=saahu27&style=plastic&label=Views"><img>
