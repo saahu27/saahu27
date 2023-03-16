@@ -1,4 +1,8 @@
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sahruday+Patti....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ### :space_invader: &nbsp;About Me
 
@@ -91,7 +95,7 @@
 
 <hr/>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://images.app.goo.gl/FhmoVvCZAE8HMTa2A)
+<img width = "800px" height="300px" src="https://github.com/saahu27/saahu27/blob/main/Quote.jpg"></img>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=saahu27&style=plastic&label=Views"><img>
