@@ -76,7 +76,10 @@
       <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
       <td><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></td>
     </tr>
-    
+    <tr>
+      <td>HardWare</td>
+      <td><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"></td>
+      <td><img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></td>
   </tbody>
 </table>
 </div>
