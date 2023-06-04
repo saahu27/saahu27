@@ -98,8 +98,6 @@
 
 <hr/>
 
-<img width = "800px" height="300px" src="https://github.com/saahu27/saahu27/blob/main/Quote.jpg"></img>
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=saahu27&style=plastic&label=Views"><img>
 </p>
