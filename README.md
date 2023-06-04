@@ -4,12 +4,12 @@
   </a>
 </h1>
 
-### :space_invader: &nbsp;About Me
+<!-- ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Doing my Masters at  [University of Maryland](https://eng.umd.edu/) in Robotics \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about problem Solving in robotics\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Engineer at heart\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; Currently working on UR3e manipulator and TI-RSLK-MAX at [MRC](https://facilities.robotics.umd.edu/ral.html)
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; Currently working on UR3e manipulator and TI-RSLK-MAX at [MRC](https://facilities.robotics.umd.edu/ral.html) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
